@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am ABC10946.
+
 <!--
 **ABC10946/ABC10946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=abc10946&count_private=true&show_icons=true)
